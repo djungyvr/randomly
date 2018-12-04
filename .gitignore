@@ -1,0 +1,5 @@
+venv
+*.log
+*.sqlite3
+*.vagrant
+*__pycache__
